@@ -1,0 +1,11 @@
+
+.memberProfiles:after {
+        content: "";
+        display: table;
+        clear: both;
+}
+
+.profile{
+    float: left;
+    width: 33%;
+}
